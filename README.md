@@ -13,6 +13,6 @@ A central place to find all my ProxMox guides
 
 [ProxMox Install Guide](https://github.com/joshkoo1988/ProxMox)
 
-[Post install and Trouble Shoot ProxMox](https://github.com/joshkoo1988/ProxMox-postinstall)
+[ProxMox post install](https://github.com/joshkoo1988/ProxMox-postinstall)
 
 
