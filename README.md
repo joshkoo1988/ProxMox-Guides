@@ -15,4 +15,6 @@ A central place to find all my ProxMox guides
 
 [ProxMox post install](https://github.com/joshkoo1988/ProxMox-postinstall)
 
+[Portainer install coming soon](https://github.com/joshkoo1988/Portainer-install)
+
 
