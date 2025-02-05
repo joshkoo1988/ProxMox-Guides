@@ -17,6 +17,8 @@ A central place to find all my ProxMox guides
 
 [VM install guide](https://github.com/joshkoo1988/vm-install)
 
+[CT install guide](https://github.com/joshkoo1988/proxmox-ct-install)
+
 [Portainer install coming soon](https://github.com/joshkoo1988/Portainer-install)
 
 [TrueNAS Scale install guide coming soon](https://github.com/joshkoo1988/trueNAS-scale)
