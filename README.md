@@ -1,7 +1,7 @@
 <h1>ProxMox Guides</h1>
 
 <h2>Description</h2>
-A central place to find all my ProxMox guides
+All my ProxMox bascis in one easy place! Here you will find how to install a fresh instance of proxmox how to configure proxmox for easy use and how to install and use your VM's and CT's!
 <br />
 
 
