@@ -13,8 +13,6 @@ All my ProxMox bascis in one easy place! Here you will find how to install a fre
 
 [ProxMox Install Guide](https://github.com/joshkoo1988/ProxMox)
 
-[ProxMox post install](https://github.com/joshkoo1988/ProxMox-postinstall)
-
 [VM install guide](https://github.com/joshkoo1988/vm-install)
 
 [CT install guide](https://github.com/joshkoo1988/proxmox-ct-install)
